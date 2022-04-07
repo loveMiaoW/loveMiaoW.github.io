@@ -27,4 +27,4 @@
 
 
 我能想到最浪漫的事，就是我喝咖啡你付钱~😆😏 ❤️ 
-<span>打赏地址：<a href="http://lovemiaow.gitee.io/sponsor" target="_blank">😆点这里点这里😆</a></span><iframe src="http://lovemiaow.gitee.io/sponsor" style="overflow-x:hidden;overflow-y:hidden; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe><br/><span id="sitetime"></span>
+<span>打赏地址：<a href="http://lovemiaow.gitee.io/sponsor/" target="_blank">😆点这里点这里😆</a></span><iframe src="http://lovemiaow.gitee.io/sponsor/" style="overflow-x:hidden;overflow-y:hidden; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe><br/><span id="sitetime"></span>
