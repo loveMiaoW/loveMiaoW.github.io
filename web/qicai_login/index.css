@@ -1,0 +1,216 @@
+* {
+	margin: 0;				/*设置元素外边距*/
+	padding: 0;				/*设置元素内边距*/
+	box-sizing: border-box;/*防止盒子内容撑开盒子*/
+}
+
+/*设置section 使内容垂直且居中*/
+section {
+	position: relative; /*相对定位 对父盒子兄弟盒子没有影响 同时 相对它原来位置进行移动*/
+	overflow: hidden;   /*如何处理不符合元素框的内容 visible 内容不会被修改 将内容显示在元素框外*/
+						/*hidden 内容会被修改 但不会提供滚动条  scroll 内容会别修改 显示滚动条 auto 有浏览器决定*/
+	display: flex;		/*弹性布局*/
+	justify-content: center; /*居中排列*/
+	align-items: center;	 /*元素在容器中心*/
+	min-height: 100vh;		 /*最小高度100vh*/
+	background: linear-gradient(to bottom, #f1f4f9, #dff1ff);/*渐变色*/
+
+}
+
+section .color {
+	position: absolute;/*绝对定位*/
+	filter:blur(200px);/*图片模糊程度*/
+}
+
+
+
+section .color:nth-child(1) {
+    top: -350px;
+    width: 600px;
+    height: 600px;
+    background: #ff359b;
+}
+
+section .color:nth-child(2) {
+    bottom: -150px;
+    left: 100px;
+    width: 500px;
+    height: 500px;
+    background: #fffd87;
+}
+
+section .color:nth-child(3) {
+    bottom: 50px;
+    right: 100px;
+    width: 500px;
+    height: 500px;
+    background: #00d2ff;
+}
+.box{
+	position: relative;
+}
+
+.box .circle {
+	position: absolute;
+	background: rgba(255,255,255,0.1); /* rgba颜色 透明值 */
+	backdrop-filter: blur(5px);
+	box-shadow: 0 25px 45px rgba(0, 0, 0, 0.1);
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgba(255,255,255,0.5);
+	border-right-width:1px;
+	border-right-color: rgba(255,255,255,0.1);
+	border-right-style: solid;
+
+
+	border-bottom-width: 1px;
+	border-bottom-color: grba(255,255,255,0.1);
+	border-bottom-style: solid;
+
+	border-radius: 50%;
+
+	
+    /* 调用动画animate，需要10s完成动画，
+    linear表示动画从头到尾的速度是相同的，
+    infinite指定动画应该循环播放无限次*/
+    
+    /* 动态计算动画延迟几秒播放 */
+    
+}
+
+
+.box .circle:nth-child(1) {
+    top: 10px;
+    right: -89px;
+    width: 100px;
+    height: 100px;
+}
+
+.box .circle:nth-child(2) {
+    top: 150px;
+    left: -100px;
+    width: 120px;
+    height: 120px;
+    z-index: 2;
+}
+
+.box .circle:nth-child(3) {
+    bottom: 50px;
+    right: -60px;
+    width: 80px;
+    height: 80px;
+    z-index: 2;
+}
+
+.box .circle:nth-child(4) {
+    bottom: -80px;
+    left: 100px;
+    width: 60px;
+    height: 60px;
+    
+}
+
+.box .circle:nth-child(5) {
+    top: -80px;
+    left: 200px;
+    width: 60px;
+    height: 60px;
+}
+
+
+.container{
+	position: relative;
+	width: 400px;
+	min-height: 400px;
+	background: rgba(255, 255, 255, 0.1);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	backdrop-filter: blur(5px);
+	box-shadow: 0 25px 45px rgba(0, 0, 0, 0.1);
+	border-color: rgba(255,255,255,0.1);
+	border-style: solid;
+	border-width: 1px;
+	border-bottom-color: rgba(255,255,255,0.2);
+    border-right-color: rgba(255,255,255,0.2);
+
+}
+
+.form {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	padding: 50px;
+}
+
+.form .sign_head {
+	position: relative;
+	color: #fff;
+	font-size: 26px;
+	font-weight: 600;
+	letter-spacing: 5px;
+	margin-bottom: 30px;
+	cursor: pointer;/*鼠标经过变手*/
+}
+.form .sign_head::before {
+    content: "";
+    position: absolute;
+    left: 0px;
+    bottom: -10px;
+    width: 0px;
+    height: 3px;
+    background: #fff;
+    transition: 1s;
+}
+
+.form .sign_head:hover:before {
+    width: 53px;
+}
+
+.form .inputBox {
+	width: 100%;
+	margin-top: 30px;
+}
+
+.form .inputBox input {
+	width: 100%;
+	padding: 10px 20px;
+	background: rgba(255,255,255,0.2);
+	outline: none;
+	border: none;
+	border-radius: 30px;
+	border: 1px solid rgba(255, 255, 255, 0.5);
+    border-right: 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    font-size: 16px;
+    letter-spacing: 1px;
+    color: #fff;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+}
+
+
+.form .inputBox input::placeholder {
+    color: #fff;
+}
+
+.form .inputBox input[type="submit"] {
+    background: rgba(255,255,255,0.5);
+    color: #666;
+    max-width: 100px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.forget {
+	margin-top: 6px;
+	color: #fff;
+	letter-spacing: 1px;
+}
+
+.forget a {
+	color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+
