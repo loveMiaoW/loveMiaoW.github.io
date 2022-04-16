@@ -6,7 +6,7 @@
 
 >Spring是一个开源的Java EE开发框架。Spring框架的核心功能可以应用在任何Java应用程序，但是对Java EE平台上的Web程序有更好的扩展性。Spring框架的目标使得JavaEE应用程序的开发更简洁，通过使用`POJO(Plain Ordinary Java Object/Pure Old Java Obiect)`为基础的编程模型促进良好的编程风格。
 >
->`一个POJO是是一个不受任何限制的Java对象(除了Java语言规范)`
+>`一个 POJO 是一个不受任何限制的Java对象(除了Java语言规范)`
 
 ##### 2.Spring有哪些有点
 
@@ -16,7 +16,7 @@
 >- 容器:Spring包含并管理应用程序对象的配置及生命周期
 >- MVC框架:Spring的web框架十一设计优良的web MVC 框架，很好的取代了一些web框架
 >- 事物管理:Spring对下至本地业务 上至全局业务提供了同一的事务管理接口
->- 异常处理:Spring提供了咦方便的**API**将特定技术的异常(由JDBC,Hibernate,或者JDO抛出)转化为一致的，Unchecked异常
+>- 异常处理:Spring提供了方便的**API**将特定技术的异常(由JDBC,Hibernate,或者JDO抛出)转化为一致的，Unchecked异常
 
 ##### 3.Spring两个核心:IOC和AOP
 
