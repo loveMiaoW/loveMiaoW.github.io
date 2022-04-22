@@ -1,10 +1,13 @@
 ##  欢迎
 
 
-> * ⏳ 爱分享，爱生活！在我眼里，`你永远是不一样的烟火`觉得还不错的话，记得好好学习吖！
-> * ✨ 本文档建立初衷是为了记录生活。`起于此，但不止于此`，在不断的摸索和完善，勤能补拙，相信一点点的积累最后汇聚成海！希望我的这个小小的计划，可以帮助到实力强大的你！`止于至善`  🧡🧡
+> ⏳ 爱分享，爱生活！在我眼里，`你是微风，是晚霞，是心跳，是无可代替，永远是不一样的烟火`觉得还不错的话，记得好好学习吖！
+>
+> 
 
-这里是我的一个笔记本(日记本嘿嘿Hi~ o(*￣▽￣*)ブ)，持续更新...
+这里是我的一个<span style="font-size:35px">笔记本</span>(嘿嘿Hi~ o(*￣▽￣*)ブ)，持续更新...
+
+<img src="https://cdn.jsdelivr.net/gh/loveMiaoW/note_image@master/myself12.png" style="border-radius:50%;box-shadow: 0 0 0 5px #dddede, white 0px 0px 30px; width:40%; display:inline-block;float:right;"/>
 
 #### 我接触过:
 - C/C++
@@ -18,12 +21,15 @@
 - ...
 
 #### 我会写:
-- (⊙﹏⊙)(我好像啥都不会)
-- 
+- MFC应用程序
+- html + css
+- ssm开发框架
+- ...
 
-#### 最近在学:
-- Java后端
-- JavaScript
+#### 最近在:
+- LeetCode
+- CodeForces
+- ...
 
 
 我能想到最浪漫的事，就是我喝咖啡你付钱~😆😏 ❤️ 
