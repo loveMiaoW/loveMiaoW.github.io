@@ -6,6 +6,8 @@
 
 这里是我的一个笔记本(日记本嘿嘿Hi~ o(*￣▽￣*)ブ)，持续更新...
 
+<img src="https://cdn.jsdelivr.net/gh/loveMiaoW/note_image@master/myself12.png" style="border-radius:50%;box-shadow: 0 0 0 5px #dddede, white 0px 0px 30px; width:40%; display:inline-block;float:right;"/>
+
 #### 我接触过:
 - C/C++
 - Web前端
