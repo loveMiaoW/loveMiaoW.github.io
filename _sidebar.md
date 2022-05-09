@@ -1,5 +1,6 @@
 - [Diary](./Diary/)
 - [Spring5](./Spring5/)
+- [openCv](./opencv/)
 - [LeetCode](./LeetCode/)
 - [剑指Offer](./剑指offer/)
 - [所遇有感](./fell/)
