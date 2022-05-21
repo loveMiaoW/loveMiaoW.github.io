@@ -7,7 +7,7 @@
 
 这里是我的一个<span style="font-size:35px">笔记本</span>(嘿嘿Hi~ o(*￣▽￣*)ブ)，持续更新...
 
-<img src="https://cdn.jsdelivr.net/gh/loveMiaoW/blogimage@master/myself/mypic.png" style="border-radius:50%;box-shadow: 0 0 0 5px #dddede, white 0px 0px 30px; width:40%; display:inline-block;float:right;"/>
+<img src="https://cdn.jsdelivr.net/gh/loveMiaoW/blogimage@master/myself/mypic.png" style="border-radius:50%;box-shadow: 0 0 0 5px #dddede, white 0px 0px 30px; width:30%; display:inline-block;float:right;"/>
 
 #### 我接触过:
 
