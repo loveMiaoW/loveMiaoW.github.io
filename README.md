@@ -11,7 +11,8 @@
 
 #### 我接触过:
 - C/C++
-- Web前端
+- shell
+- Ansible
 - Java
 - python
 
@@ -23,14 +24,14 @@
 #### 我会写:
 - MFC应用程序
 - html + css
-- ssm开发框架
+- ssm开发
+- 计算机视觉(opencv)
 - ...
 
 #### 最近在:
 - LeetCode
 - CodeForces
 - ...
-
 
 我能想到最浪漫的事，就是我喝咖啡你付钱~😆😏 ❤️ 
 <span>打赏地址：<a href="http://lovemiaow.gitee.io/sponsor/" target="_blank">😆点这里点这里😆</a></span><iframe src="https://lovemiaow.github.io/sponsor/index.html" style="overflow-x:hidden;overflow-y:hidden; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe><br/><span id="sitetime"></span>
