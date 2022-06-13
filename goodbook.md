@@ -1,8 +1,6 @@
 ### 数学不仅拥有真理，而且拥有至高的美
 
-><font style="color: #948C76;size: 10px;font-family: 'Fira Code' !important" >如果有人不相信数学很简单，那是因为他们没有意识到人生有多复杂。
->
->​																														——冯·诺依曼
+><font style="color: #948C76;size: 20px;font-family: 'Fira Code' !important" >如果有人不相信数学很简单，那是因为他们没有意识到人生有多复杂。——冯·诺依曼
 >
 ></font>
 
