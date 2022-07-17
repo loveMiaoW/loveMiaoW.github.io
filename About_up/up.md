@@ -17,9 +17,6 @@
 双非本科，计科在读，忠于探索稀奇古怪。喜爱电子DIY，热爱生活积极向上⬆⬆⬆
 <img src="https://cdn.jsdelivr.net/gh/loveMiaoW/Blog/image/2440.gif" />
 
-
-<img src="https://cdn.jsdelivr.net/gh/loveMiaoW/Blog/image/iali25.jpg" />
-
 ## 💌 Connect me
 
 - **QQ：** 2338640164
@@ -31,5 +28,5 @@
 
 - **微信公众号：** loveMiaoW（扫码关注我呀 🥤）
 
-  <div ><img src="https://cdn.jsdelivr.net/gh/loveMiaoW/Blog@master/image/03604D4AA132E459F9B1756BE47E25B5.png" width="200" height="200" /></div>
+  <div><img src="https://img-blog.csdnimg.cn/032516945ac94f308f6a901d44246ead.png#pic_center" width="200" height="230" /></div>
 
