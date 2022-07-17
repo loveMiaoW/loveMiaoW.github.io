@@ -3,9 +3,9 @@ const qbox = bd.querySelector('#QRBox')
 const mbox = bd.querySelector('#MainBox')
 const dbox = bd.querySelector('#donateBox')
 
-const qqr = 'https://cdn.jsdelivr.net/gh/loveMiaoW/Blog/image/QQPay.png'
-const aqr = 'https://cdn.jsdelivr.net/gh/loveMiaoW/Blog/image/AliPay.png'
-const wqr = 'https://cdn.jsdelivr.net/gh/loveMiaoW/Blog/image/WeChan.png'
+const qqr = 'https://img-blog.csdnimg.cn/72fb6d98a39c41c183fdda6528d50a7a.png#pic_center'
+const aqr = 'https://img-blog.csdnimg.cn/0a1642370f904f2186e0a2960a0e2e2b.png#pic_center'
+const wqr = 'https://img-blog.csdnimg.cn/a1e1b98f663c4d4da880ec17d101625c.png#pic_center'
 
 const showQR = (QR) => {
 	if (QR) mbox.style.backgroundImage = `url(${ QR })`
