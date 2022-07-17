@@ -7,7 +7,7 @@
 
 这里是我的一个<span style="font-size:35px">笔记本</span>(嘿嘿Hi~ o(*￣▽￣*)ブ)，持续更新...
 
-<img src="https://img-blog.csdnimg.cn/4a4c22f50eb94ca0adadfde6e6fef8cb.png#pic_center" style="border-radius:50%;box-shadow: 0 0 0 5px #dddede, white 0px 0px 30px; width:30%; display:inline-block;float:right;"/>
+<img src="https://img-blog.csdnimg.cn/c3dca75d916547e18c76c18c7d6e2a51.png#pic_center" style="border-radius:50%;box-shadow: 0 0 0 5px #dddede, white 0px 0px 30px; width:30%; display:inline-block;float:right;"/>
 
 #### 我接触过:
 
