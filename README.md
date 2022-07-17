@@ -7,27 +7,22 @@
 
 这里是我的一个<span style="font-size:35px">笔记本</span>(嘿嘿Hi~ o(*￣▽￣*)ブ)，持续更新...
 
-<img src="https://cdn.jsdelivr.net/gh/loveMiaoW/blogimage@master/myself/mypic.png" style="border-radius:50%;box-shadow: 0 0 0 5px #dddede, white 0px 0px 30px; width:30%; display:inline-block;float:right;"/>
+<img src="https://img-blog.csdnimg.cn/4a4c22f50eb94ca0adadfde6e6fef8cb.png#pic_center" style="border-radius:50%;box-shadow: 0 0 0 5px #dddede, white 0px 0px 30px; width:30%; display:inline-block;float:right;"/>
 
 #### 我接触过:
 
 - C/C++
 - shell
-- Ansible
-- Java
-- python
+- ansible
 
 #### 我会用:
-- Linux
-- Git
-- ...
+- VS2019
+- QT
 
-#### 我会写:
-- MFC应用程序
-- html + css
-- ssm开发
-- 计算机视觉(opencv)
-- ...
+#### 我写过:
+- JOSN
+- webServer
+- 操作系统内核
 
 #### 最近在:
 - LeetCode
