@@ -1,0 +1,59 @@
+#popupbb {
+    display: none;
+}
+
+#pop-video {
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    object-fit: fill;
+}
+
+@media only screen and (max-width: 760px) {
+    #pop-video {
+        display: none;
+    }
+}
+
+.fighting {
+    position: fixed;
+    padding: 12px;
+    bottom: 40%;
+    background: #000;
+    opacity: 0.65;
+    filter: alpha(opacity=10);
+    z-index: 999999999;
+    width: 50%;
+    left: 25%;
+    border-radius: 16px;
+}
+
+@media only screen and (max-width: 768px) {
+    .fighting {
+        width: 100%;
+        left: 0;
+    }
+
+    /* .popup {
+          display: none;
+        } */
+}
+
+.fighting .duoshuo {
+    font-family: 华文行楷;
+    font-size: 26px;
+    color: #dc8f03;
+    text-indent: 2rem;
+}
+
+.fighting .duoshuo .tebie {
+    color: pink;
+    font-family: 'Font Awesome 5 Free';
+    font-size: 22px;
+    cursor: pointer;
+    font-weight: 500;
+    font-style: oblique;
+}
