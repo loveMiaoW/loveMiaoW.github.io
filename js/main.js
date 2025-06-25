@@ -51,7 +51,7 @@ window.addEventListener('load', function () {
             timeout: 2500,
             icon: false,
             title: hello,
-            message: '欢迎来到我的主页,移动端暂时不适配，15跳转，请pc查看~_~'
+            message: '欢迎来到我的导航页'
         });
     }, 1200);
 
