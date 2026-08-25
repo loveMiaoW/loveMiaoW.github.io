@@ -1,0 +1,25 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+_multiconfig.yml
+
+# Hexo
+.DS_Store
+Thumbs.db
+db.json
+*.log
+public/
+.deploy*/
+
+# 依赖
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
